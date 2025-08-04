@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|c:\\users\\victo\\downloads\\tourguide\\tourguide\\tourguide\\tour_guide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|solutionrelative:tour_guide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|c:\\users\\victo\\downloads\\tourguide\\tourguide\\tourguide\\tour_guide\\service\\lugarhistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|solutionrelative:tour_guide\\service\\lugarhistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|c:\\users\\victo\\downloads\\tourguide\\tourguide\\tourguide\\tour_guide\\contract\\ilugarhistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|solutionrelative:tour_guide\\contract\\ilugarhistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|c:\\users\\victo\\downloads\\tourguide\\tourguide\\tourguide\\tour_guide\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|solutionrelative:tour_guide\\dtos\\dtobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|c:\\users\\victo\\downloads\\tourguide\\tourguide\\tourguide\\tour_guide\\dtos\\lugarhistorico\\lugarhistoricodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|solutionrelative:tour_guide\\dtos\\lugarhistorico\\lugarhistoricodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|c:\\users\\victo\\downloads\\tourguide\\tourguide\\tourguide\\tour_guide\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A54E88-A180-4ECC-8B5A-62EA3F0B94F3}|Tour_Guide\\Tour_Guide.csproj|solutionrelative:tour_guide\\core\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DtoBase.cs",
+              "DocumentMoniker": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Dtos\\DtoBase.cs",
+              "RelativeDocumentMoniker": "Tour_Guide\\Dtos\\DtoBase.cs",
+              "ToolTip": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Dtos\\DtoBase.cs",
+              "RelativeToolTip": "Tour_Guide\\Dtos\\DtoBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T04:01:39.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LugarHistoricoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Dtos\\LugarHistorico\\LugarHistoricoDto.cs",
+              "RelativeDocumentMoniker": "Tour_Guide\\Dtos\\LugarHistorico\\LugarHistoricoDto.cs",
+              "ToolTip": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Dtos\\LugarHistorico\\LugarHistoricoDto.cs",
+              "RelativeToolTip": "Tour_Guide\\Dtos\\LugarHistorico\\LugarHistoricoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T04:01:38.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\core\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "Tour_Guide\\core\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\core\\ServiceResult.cs",
+              "RelativeToolTip": "Tour_Guide\\core\\ServiceResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T04:01:34.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILugarHistoricoService.cs",
+              "DocumentMoniker": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\contract\\ILugarHistoricoService.cs",
+              "RelativeDocumentMoniker": "Tour_Guide\\contract\\ILugarHistoricoService.cs",
+              "ToolTip": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\contract\\ILugarHistoricoService.cs",
+              "RelativeToolTip": "Tour_Guide\\contract\\ILugarHistoricoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T04:01:31.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LugarHistoricoService.cs",
+              "DocumentMoniker": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Service\\LugarHistoricoService.cs",
+              "RelativeDocumentMoniker": "Tour_Guide\\Service\\LugarHistoricoService.cs",
+              "ToolTip": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Service\\LugarHistoricoService.cs",
+              "RelativeToolTip": "Tour_Guide\\Service\\LugarHistoricoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T03:58:23.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Program.cs",
+              "RelativeDocumentMoniker": "Tour_Guide\\Program.cs",
+              "ToolTip": "C:\\Users\\Victo\\Downloads\\TourGuide\\TourGuide\\TourGuide\\Tour_Guide\\Program.cs",
+              "RelativeToolTip": "Tour_Guide\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T03:58:02.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

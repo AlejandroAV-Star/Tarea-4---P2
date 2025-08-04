@@ -1,0 +1,14 @@
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\Tour_Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\Tour_Guide.AssemblyInfoInputs.cache
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\Tour_Guide.AssemblyInfo.cs
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\Tour_Guide.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\bin\Debug\net9.0\Tour_Guide.exe
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\bin\Debug\net9.0\Tour_Guide.deps.json
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\bin\Debug\net9.0\Tour_Guide.runtimeconfig.json
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\bin\Debug\net9.0\Tour_Guide.dll
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\bin\Debug\net9.0\Tour_Guide.pdb
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\Tour_Guide.dll
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\refint\Tour_Guide.dll
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\Tour_Guide.pdb
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\Tour_Guide.genruntimeconfig.cache
+C:\Users\Victo\Downloads\TourGuide\TourGuide\TourGuide\Tour_Guide\obj\Debug\net9.0\ref\Tour_Guide.dll
